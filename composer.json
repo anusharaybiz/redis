@@ -1,0 +1,21 @@
+{
+    "name": "rbt-redis/yii2-rbtredis",
+    "description": "RBT Redis Component",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Anusha",
+            "email": "anusha.vallabhaneni@raybiztech.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rbt\\rbtredis\\": ""
+        }
+    }
+}
