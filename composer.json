@@ -17,5 +17,12 @@
         "psr-4": {
             "rbt\\rbtredis\\": ""
         }
+    },
+    
+"repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/anusharaybiz/redis.git"
     }
+]
 }
